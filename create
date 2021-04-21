@@ -1,4 +1,0 @@
-yarn run v1.22.5
-$ ts-node-dev node_modules/typeorm/cli.js migrate -n CreateUsers
-[INFO] 11:12:24 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
